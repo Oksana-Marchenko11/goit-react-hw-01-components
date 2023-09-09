@@ -1,4 +1,3 @@
-import friends from '../../data/friends.json';
 import styles from './FriendList.module.css';
 import PropTypes from 'prop-types';
 
